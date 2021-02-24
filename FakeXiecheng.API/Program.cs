@@ -14,7 +14,7 @@ namespace FakeXiecheng.API
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();
-            Console.WriteLine(11222);
+            Console.WriteLine(112223333);
         }
 
         public static IHostBuilder CreateHostBuilder(string[] args) =>
